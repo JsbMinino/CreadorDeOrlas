@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: creadordeorlas-qt4
+Binary: creadordeorlas-qt4
+Architecture: source all
+Version: 0.0.71-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ creadordeorlas-qt4 - qt4 package for CreadorDeOrlas
+Changes:
+ creadordeorlas-qt4 (0.0.71-1) unstable; urgency=low
+ .
+   * minino 2020
+Checksums-Sha1:
+ 1bef0111192b576519025a2eb7f7ba7ea53d59f3 592 creadordeorlas-qt4_0.0.71-1.dsc
+ 01ffa3ff26a8bbbb081900c6c691de66d39e3f09 2749 creadordeorlas-qt4_0.0.71-1.tar.gz
+ 0fb6f6fd5dcea984c3badea0a05e7ef486651466 3280 creadordeorlas-qt4_0.0.71-1_all.deb
+ df2b322d34c19b856333da18c07c6a6be12541af 4570 creadordeorlas-qt4_0.0.71-1_amd64.buildinfo
+Checksums-Sha256:
+ a341231dc4b2d3872dd94a440f2250707d5522997fe8f8c05dbedc5e82a73a0b 592 creadordeorlas-qt4_0.0.71-1.dsc
+ b5aa14d41c4858c2bac5a2ebe8cc36550c2fc8fee9bbc7b2e529782d905d6fbb 2749 creadordeorlas-qt4_0.0.71-1.tar.gz
+ 6fc0a4e0089feb204a1061c1263f1bd980b8b58b9decbae74ef9258b80c4699f 3280 creadordeorlas-qt4_0.0.71-1_all.deb
+ 41d4f20eba3b8789385a6ea76c41a04e835ac9cdaa64fdf60811a1a8ce41057d 4570 creadordeorlas-qt4_0.0.71-1_amd64.buildinfo
+Files:
+ 63ad090a03366f693af5b86e843049ed 592 contrib/graphics optional creadordeorlas-qt4_0.0.71-1.dsc
+ 4a97a76ba039a86364c29537ac5952af 2749 contrib/graphics optional creadordeorlas-qt4_0.0.71-1.tar.gz
+ 4c490746dca8ec507c5efc30050c0eee 3280 contrib/graphics optional creadordeorlas-qt4_0.0.71-1_all.deb
+ 730d5f19d98dc86810ceb00d83c23ee2 4570 contrib/graphics optional creadordeorlas-qt4_0.0.71-1_amd64.buildinfo

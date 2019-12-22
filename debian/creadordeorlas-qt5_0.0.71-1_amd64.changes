@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: creadordeorlas-qt5
+Binary: creadordeorlas-qt5
+Architecture: source all
+Version: 0.0.71-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ creadordeorlas-qt5 - qt5 package for CreadorDeOrlas
+Changes:
+ creadordeorlas-qt5 (0.0.71-1) unstable; urgency=low
+ .
+   * minino 2020
+Checksums-Sha1:
+ eba31873040c601c3ffaedc3f697eacf9963a28a 592 creadordeorlas-qt5_0.0.71-1.dsc
+ d5651d9d2fcc395c8ec63ea415a99306ff1557f4 2749 creadordeorlas-qt5_0.0.71-1.tar.gz
+ 20c8426fc06c5272ff6e5b679c9d20afa75826cd 3280 creadordeorlas-qt5_0.0.71-1_all.deb
+ 3a2699920ea41f9e0e9a8425b80a4edfa5fb8a69 4570 creadordeorlas-qt5_0.0.71-1_amd64.buildinfo
+Checksums-Sha256:
+ 3639f1f164fb46cc85261aa41668e638d0a057bbad8661910bf31f94b5d91a5b 592 creadordeorlas-qt5_0.0.71-1.dsc
+ 7c921d903853d049f9f02e40b9339538e6d449ff3f8db98248ae92b69271d0c9 2749 creadordeorlas-qt5_0.0.71-1.tar.gz
+ 5e9a3ac2230b41ea94d6724e468d7acf23c4c21ccf957d3de1bd692946888902 3280 creadordeorlas-qt5_0.0.71-1_all.deb
+ 70d412db0e5c46e3e94d783eeef88216d000d2647e7cd1fe1c861086a795ca3b 4570 creadordeorlas-qt5_0.0.71-1_amd64.buildinfo
+Files:
+ 0d51797745f295997d6f598de065bf90 592 contrib/graphics optional creadordeorlas-qt5_0.0.71-1.dsc
+ bedf60f0635c1c63405443bd742ee803 2749 contrib/graphics optional creadordeorlas-qt5_0.0.71-1.tar.gz
+ 843acbf3fd9bd5b456d26d98e6416c2d 3280 contrib/graphics optional creadordeorlas-qt5_0.0.71-1_all.deb
+ 58c4037172d57018800d11cb415d0698 4570 contrib/graphics optional creadordeorlas-qt5_0.0.71-1_amd64.buildinfo

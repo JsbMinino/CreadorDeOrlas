@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: creadordeorlas
+Binary: creadordeorlas
+Architecture: source all
+Version: 0.0.71-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ creadordeorlas - Crea las orlas de tus alumnos, compañeros de promoción, etc..
+Changes:
+ creadordeorlas (0.0.71-1) unstable; urgency=low
+ .
+   * minino 2020
+Checksums-Sha1:
+ cc7a57df3a4e45f5b721e30f87a7e6245fe1877f 1298 creadordeorlas_0.0.71-1.dsc
+ 73dc9953f61b8a96cf49a99ed77fbfaeeb61b546 3275 creadordeorlas_0.0.71-1.diff.gz
+ 1c78c1e78eec2e35d2795ba06a125a96a9cb4632 23849796 creadordeorlas_0.0.71-1_all.deb
+ be1f6ebbccc6a1b2d75b7835160fbbe8e4f7dda8 10175 creadordeorlas_0.0.71-1_amd64.buildinfo
+Checksums-Sha256:
+ 631b1bea562a29600242ff5a2bde8753874b41cd21cf6b3e4c776a03d41bb223 1298 creadordeorlas_0.0.71-1.dsc
+ 938f9a944f4ddf6f8735d55ce1f7dcbb96c509526c790536d61295c7f93d8c73 3275 creadordeorlas_0.0.71-1.diff.gz
+ 6515bda4b2cccfb51eb88147fb5e3faffd2db169d487187507bd03e19a6aa5cb 23849796 creadordeorlas_0.0.71-1_all.deb
+ 466e7d9743900e303add6a8906b203dd4c3756dec012afb5af95a021449478ac 10175 creadordeorlas_0.0.71-1_amd64.buildinfo
+Files:
+ a8206c4cba8af15cec588ebbf8691208 1298 contrib/graphics optional creadordeorlas_0.0.71-1.dsc
+ bbd5c0b4d94c6bb41f8d43e8fa1d4c39 3275 contrib/graphics optional creadordeorlas_0.0.71-1.diff.gz
+ 9a24a013d8a3831b99dcf24015d8125b 23849796 contrib/graphics optional creadordeorlas_0.0.71-1_all.deb
+ 9391dd82e33ecf2a9576706eda8ac4a3 10175 contrib/graphics optional creadordeorlas_0.0.71-1_amd64.buildinfo
